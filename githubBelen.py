@@ -1,7 +1,7 @@
 
 def suma (a, b):
 '''
- Funcion de suna de dos numeros
+ Funcion de suma a y b
 '''
 	return a + b
 	
